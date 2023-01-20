@@ -3,17 +3,25 @@
 @tailwind utilities;
 
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Archivo';
 }
 
 body {
   margin: 0;
-  background-color: #19161F;
+  background-color: #1f1f1f;
+}
+
+.sidebar {
+  background-color: rgb(44, 44, 44);
 }
 
 @layer components {
+    :root {
+      @apply text-slate-50 
+    }
+
     .sidebar-icon {
       @apply relative flex items-center justify-center
-      h-10 w-10 mt-4 mb-2 ml-2
+      p-1 mx-auto md:ml-1 md:mr-1 md:mb-0.5
     }
 }

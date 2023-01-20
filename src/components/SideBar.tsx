@@ -1,46 +1,21 @@
-import React, { ReactComponentElement, ReactNode } from 'react';
-import { IconType } from 'react-icons';
-import {BsHouseFill} from 'react-icons/bs'
+import React from 'react';
+import { BsCompass, BsHouse } from 'react-icons/bs';
+import SideBarItem from './SideBarItem';
 
 export interface ISideBarProps {
 }
 
 export default function SideBar (props: ISideBarProps) {
   return (
-    <div className='fixed bg-zinc-800 top-0 left-0
-        h-screen  w-36  text-slate-50
-            flex items-center
+    <div className='fixed w-screen  text-slate-50 
+    bg-primary bottom-0 flex justify-center
+    md:w-52 md:h-screen md:flex md:flex-col md:justify-start md:top-0 md:pt-2
+    pt-2
+
+    transition-all duration-300 sidebar
         '>
-            <div className='shrink-0'>
-                <SideBarIcon icon={<BsHouseFill/>}/> 
-            </div>
-            <div>
-                <IconTitle title={'Home'} />
-            </div>
+            <SideBarItem title='Home' icon={<BsHouse/>} id='home'/>
+            <SideBarItem title='Discovery' icon={<BsCompass/>} id='discovery'/>
     </div>
   );
-}
-
-interface ISideBarIcon {
-    icon: ReactNode,
-}
-
-function SideBarIcon ({icon} : ISideBarIcon) {
-    return (
-        <div className='sidebar-icon'>
-            {icon}
-        </div>
-    )
-}
-
-interface IconTitleInterface {
-    title: string
-}
-
-function IconTitle ({title} : IconTitleInterface) {
-    return (
-        <div className='text-xl mt-4'>
-            {title}
-        </div>
-    )
 }
