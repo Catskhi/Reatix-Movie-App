@@ -1,4 +1,26 @@
 [
+  {
+    "movie_name": "The Batman",
+    "movie_year": "2022",
+    "movie_rating": "PG-13",
+    "movie_duration": "2h 56m",
+    "movie_genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "movie_directors": [
+      "Matt Reeves"
+    ],
+    "movie_stars": [
+      "Robert Pattinson",
+      "Zo\u00eb Kravitz",
+      "Jeffrey Wright"
+    ],
+    "movie_description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+    "movie_poster": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4"
+    },
     {
       "movie_name": "Fight Club",
       "movie_year": "1999",
@@ -16,7 +38,7 @@
         "Meat Loaf"
       ],
       "movie_description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
-      "movie_poster": "https://http2.mlstatic.com/D_NQ_NP_755314-MLB47711017351_092021-O.jpg",
+      "movie_poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
       "movie_trailer": "https://www.youtube.com/watch?v=O1nDozs-LxI"
     },
     {
@@ -38,7 +60,7 @@
         "Ana de Armas"
       ],
       "movie_description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
-      "movie_poster": "https://i.pinimg.com/originals/79/10/68/791068633b99ef1ad1b37116c7f76366.jpg",
+      "movie_poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_FMjpg_UX1000_.jpg",
       "movie_trailer": "https://www.youtube.com/watch?v=gCcx85zbxz4"
     },
     {
@@ -59,7 +81,7 @@
         "Cybill Shepherd"
       ],
       "movie_description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
-      "movie_poster": "https://i.pinimg.com/originals/ed/75/66/ed7566986f170e8cdec09fd2d189530c.jpg",
+      "movie_poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
       "movie_trailer": "https://www.youtube.com/watch?v=T5IligQP7Fo"
     },
     {
@@ -80,7 +102,7 @@
         "Bryan Cranston"
       ],
       "movie_description": "A mysterious Hollywood action film stuntman gets in trouble with gangsters when he tries to help his neighbor's husband rob a pawn shop while serving as his getaway driver,",
-      "movie_poster": "https://i.ebayimg.com/images/g/mvMAAOSw5cNYLe15/s-l500.jpg",
+      "movie_poster": "https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_FMjpg_UX1000_.jpg",
       "movie_trailer": "https://www.youtube.com/watch?v=KBiOF3y1W0Y"
     },
     {
@@ -102,29 +124,7 @@
         "Josh Lucas"
       ],
       "movie_description": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
-      "movie_poster": "https://i.pinimg.com/564x/98/ff/a5/98ffa54302ea99be44aa786c109e8178.jpg",
+      "movie_poster": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
       "movie_trailer": "https://www.youtube.com/watch?v=Q_jaJR_cNFU"
-    },
-    {
-      "movie_name": "The Batman",
-      "movie_year": "2022",
-      "movie_rating": "PG-13",
-      "movie_duration": "2h 56m",
-      "movie_genres": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "movie_directors": [
-        "Matt Reeves"
-      ],
-      "movie_stars": [
-        "Robert Pattinson",
-        "Zo\u00eb Kravitz",
-        "Jeffrey Wright"
-      ],
-      "movie_description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
-      "movie_poster": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhUREBIWFhUVFRUVFRUVFxUVFxUWFxUXFhYVFRUYHiggGholHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGi0lICYtLS0vLS8tLS0vKy0tLS0tKy0tLS0tLS0tLS0rLS4tLy0tLS0tLS0tLS0tLy0tLS0tLf/AABEIASwAqAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAQQCAwUGB//EAEIQAAIBAgQCBwUGBAUCBwAAAAECAAMRBBIhMQVBIjJRYXGBkRNCUqGxBmJywdHwFCOi4QczksLSsvEXJENTgoOT/8QAGwEBAAEFAQAAAAAAAAAAAAAAAAUBAgMEBwb/xAA1EQACAQIDBQUIAQQDAAAAAAAAAQIDEQQhMQUSQVFhBnGBkaETFCIyUsHR8LFCorLhFiMz/9oADAMBAAIRAxEAPwDzkREgTrZEmRJgCIkQCYiIAiRJgCIkQCYiIAiRJgCIiAIiIAiIgCIiARJkSYAiIgCIiAIiIBEmIgCIiAIiIBEmIgCIgwBERAEREAiTEQBIkxAEREAiTEQBIkxAEREAiTEQBERAEREAREQBERAIkyJMAREiATERAEREAREQBESIBMSJMAREQBEQYAiQGF7dkSoJiIlAIkSYAiLxAEREAREQBERAEREACIkFgNzAJia1xCF/Z5hn+HnNygnYGHkUTT0zMR3yhxfiHsVGXWo5tTX5ZvD6yzj8StBS72sOXNjyFp5nhz+3xZqk6KCwv3aKB6gzPRp3vJ6L1I3HYtwlGhSf/ZNpcLxT1l4LRc887Z9kq1JLA5mGZ3Y9EMb9LXzt3AeESMZS9p/K5Mc9Q69VT0VH3iy/0mTL47lryeZbiYYtT3cMvhSt81s/GLvla7vrdcDqCCJgRY78tvzgGapJmcxJ+cX7pibnmO/nKlTBrnQ38ds3vcvd5d8yHj/aCNbefrJIOtuzQHq5oKPIAdszyzFQba2vbW23leZAwVWZIMrmsfa+zt/6av8A1ZZvzTyvHalU4pvZXuqgacha/wCcy0aftJW6EftHGxwdJVZK/wASXmmerA7pXxVbI1JfjZh4habG3qV9J4rEYiuurVX9SPlLGBxrtVWpUcsaalvAWsdvGZvdJRzbIpdo6dWShCDTbWttLre9LntGEXnMXjKOt6aljfKMzhbnsudj4ypX4zWUsppKrA2ZWvmXvIN9O/8AUXxxwtVq9rG9U29gYO2/d9E362S9Tvcr8p5fjOOo5r0FBa/8w7o/OxU9bx5aTnYrGVKtTLWbQsFy9ULqNQv6yuy5LhrBha/cbXt4ja3dNqlhdx3k/Agdobf94W5Rhuq+rs2u5K6XK93kdLFcPxK5EJuhAemy6KA19juNbi0rVKWQBmrXY6WUk+Gu09FXrri6SOC1KmgJe5vmbKuYU7HReiT26nyqfaXFolIUFUDPZ8oFsgBuDb4j+syOrFTUIq/PpzNKngas8NLE1puKSvG925fTZXyT0T8lZHH4gHZLswK6WsfLUECXfsat3qfhX6/2nARSZ6b7GUtKrfgHrmP6SuJdqTLdhRvtClbq/wC1neCi9yLHb+r9+sTYW/W36yZFXOiX6huySBO2MZwO4vjap/CiD6kzelXgZOYVMVqLZlWm3yW5+Uz+61eXqQn/ACDA/U/JnnGWQJ9AwXB+FVlvQfEOex81L5+ymjGcEWidOF1a4YnIaeIJsN7MuQd+vZaVWEqPl5lsu0WCi8t59yX5R4UKL7ec2ATqcY42uG0fhCJYX/mmox88tQTij/EHL1cFhVPaq1Cf6ifrLvc580Y32mwvCEvRfdm+3j6yxS4dVcArSdgdjlJB8CBrOT/4lYm65cPhBY7+wUjYjpdo1v5AzqcS/wAWMcEsmK/mH/28OiU18M/SY9507pcsE+MvQ1qnaeH9FJvvf+jbiuGvRqUqddTTes2VFe4Y2F2bLuFA5meQwfER/EVqnxDJ5WCn5X9ZTxf2kr1Wp1qr5qtN3Oc9ZhUNyW79x4WnKoVG6TLy1PgTNmlh4081qQe0NrVsYlGaSindJc+ref26FzjFUMT8pToVMufvUr8xNbVb6xWplQL89fKZmrkbCbg7onD1B0g2zKR5jVT6ges9FgcT7ei3tNatFWu53akBdMx55W0807J5flOhhX6Ne3OmFv8A/YjH5KRKlpOBwNXENdRsdWOwnZP2epLq7k235A+HOc/B8eNJAiUhprck6nmTK+J43Xf3sv4dPmJrSVaUssl+95N4eWzaFLenepN9HZdEnZPxvfhY72IxC4dDUYA1NBTpHTJlINivI6qx77TylWo1RizG7E3Jmu/rM6KzJSpKF+JqY/aEsU0rbsVor3z4tvK78MlkuN9yiwvPT/ZFP/Lsfvn5BZ5qr1TPR/ZJ7UH52fbyG3fMWL/8/FG92caWMz+mX2O2B3ct5MhTfXt/eokyMPenz4Dxm+lVZeqbeFr+tpXLk7ADxmJW+7E/STpyQvnGVB1qz+HtGPyB0nY4f9s8VhxagwXS2oBB8ebeZnnqNAt1Fv38vWWv4EAXdx4Lr6mAb+JcZxGLa9eqW52UKi+igD1mOBwWY6KO9jqB4sTaaTUpr1RfxkpUrViEQEnYKov5QD0+F4fg0H8+q9VvhpWUDxcj6LKFXg9HFMFwqMpXruXzIBpbMSAAd9ASTyE08O4MWqZXZXya1jmK0aK8xVqjdvur672ucT+04W1HArZF0z5cv/5p7o7zqe6AY1/8OcSbtQenUUbf5ilvDMgHznE4hwmvgWX2yqpIbQOj3Gx6KnadHCfxLhnbEVEQa1HNRwLntsdWPIc5Ww3DGr1ADcgjOzMdVT4mJva/KAVeEcIqYku1ICyWYliqotz7zOQAPE67aypi6Ll21DkGxKdIG3YRoR4TpcYxytahROWih2G9RwNXP5Xv6yrhsWVQhSV5i2vjeAc5U0J7Pr2TbnyplHvG5PhsPmZZFdA/tWQNqMqHRWtuWty205yOI1Hch6lszZjYCwA0AAA0A7oBRyaXmEzMhYAAlmkJXSX6NE82UeMA0VWvpO59jq2tWmOYVv8ATcH/AKh6SlSSj79VfIFvpN3DjTFZThzUapc26IC7a36W1rzFXjvU2jf2ZW9ji6c7XztZa5prLm89OJ6prWNwLEdP89ImCV1N7smUlrWbMGTnbbv+KRIiz5HSbX5eP7+68TwwXykq6jfXx29JULkzNKJO8nDk5aqY0toLn6TFQ76a+AlihgDoW6I+fpLD4pKQ6On1PnAJw+ARBmqm33f1m5eJrbKpNOnbXJpUqfdU+6veZxKtZqp127Juo0CdeQ3J2HnALmKxj1wtNRkor1KS9UfePNm+8bmX8Dw5UUVKxKo3UygGpWPZRU8u2oeiO86Sph6iUrXQO3uo3V7mqjs7E589NJu/jHZy2YvVbrVDyHwpyVR3eVhuB1K9XqoUXML+zoDpU6A5vUJ/zKnM5vPTozlcW4rkRsPRa5Y3rVObt8IO5lWvxIKCqHxb4j2/hHIdusojBZtQ3r+sAr5LGxBB7NpJY6gcz/2E69LH11GV1Suo92oucr4N1h6zH+NpF6eSg3Wu1IuSrW2sxGYc97+MA30uHigKdXEkEsuZKQ3trYueQ59vznGxOINQ3NvAXtuTz8Za4hXaozO4GgCgLoqDXKqj19ZzlgGe0wEybaYqIBE200hUm20AwItsNeU9Xg8GMNStlzVX0YDf8B+FRfU/2tx/s/Rz4lL6hLv6A5f6rT17ALmYC7HfLo1u6aOKq5qPj3nrOz2BThLEvW7istMs2urvZZc9U7GjCYQKu+ctlLNplNuqFX3VXlEs01A2FhvsPe3/AGfiiaLk7nq4xjFKKS9X+/y3mzw2B4ez9Uac2O06Q9lQGmrfEeXgOUoYvixPRTQd05r1S28nDlBcxXECdB6ysiFjc6mZ0MPf97S9UUUVu3WI0HO3aezwgGtKSoLufLv7JrqYgv3AbCV8xc3M3U0J0EAzpC5kV8TlBROe57e797zDEVgvRXzP6SqyncwC1hsKKmx1mZwNRNdbX3UXHmJTRypuDYzqYXjtRNDY337/ABEAU61luyZwPeQkFfLcfITUcXmBIUA2PfqbC9+2wb1ljFYuk+qdB+4WF/zE5JJGm3bAM2c5cvfm8b2A+X1moGXxRRhnLG50CAHS2guTp6TRVpFTquUHYd0ArkzOkJnXo6ZhtpIoQDcBBkiDAO/9lcN0XqHdzkH4Rq3zt/pnf1lThCBaFNfu3/1HN/ultZDVpb02zp2zqCoYSnDikm+95v1ZkIkObdvlExG5vHzIC8u4bC8+c2YbC5RmP78Ir4rKLD0/WTxyU3VXFIAjUj0vyA/Wc4lqjFmNzuSZJvUIA9PqZap0QLKNT3bQBh8MW22mOKxAUZE8z+V5sxmLyjIp/ER9BOYYBkja6yWa5mEQDIPNyMljcant5StMgR2QCwCgtpdt7i4AkKwJ18z+QmvMOS/O82KQgvux+XhAOxT4kKa2RB+JrE+QnKxeMNQ3beV2Yneb8PSzMosbH6czALeKXJQVT7zA/K5/KUKRm3iGM9q99lGijsEr0zALazFzpFORUGkIpL5We8w6WRR2Iq+i6TahG4ObX+00UKoNze91Vh+Fl/tNq1OY/ZkG0zrS0y0/GRnfWJrZ9Of784ixceDxGKJOnl3StTQsdN+2SlO++03qOQk4ckN4soyJz3bme4d0xr1PZjKD0jufhHYO+KlQUxp1j8pzybwCDEiTAEiIgCIiATF5EzpoWNgLmAbKBNxlFzyuL69tuc6OJqilTZL5qj/5jXvblkB7hv3kDlK4qLSFlN2O7D6L+spO14BhNizCZKl4BYpNbW1xOoKQZbjsnIw9Qo17X7RrqJ3eHYmi/RvkJ2D2Ho2x87QC9wKqSCnwZP6i3y6K/wCozrkHtnHw+HNCuCdA4KE+PVPqBOzUpch+/CRWJju1O/8AX6nQ9g4r2+DSesXZ/b0su9MhSey/bEDmCfLs8/36RMBMpnglBP6TfUIpjXrH5TYVFJczbnYTl1ahY3MnDkZDvc3MwkyIAiIgCIiAIkgTIAeMAlEv3Dtmz2uUWXTtPM/oJjYmCsA1ExMinZMIBnTEsKtpqw4uZZKwDKmNzO9hPs4pXNWDBj7g0yjvPbNHAMHnYOdlZSLfFuPSeouD4iaOJrtPdj4nqthbJp1Ie8V1e/yp6d759E8uOd1bmYfhuVPZkvbkpPtVHhYKV9ZapljYNva+bfbt0Fsw7vi7pvtIUHnNOVSU1aTueloYKhQk5Uo7t7J20dtLrTxSRjz7d7fpeJsMSw28z5xisQajXPlNESJOnJRERAJkSRJKGARaJOWQRAF5kjTCIBbRhMioMpgzNapEA3ZSNR/cTYaYqagWPNRz7So+o8xpoMEqgzK3MGxGoI3gGynhSNRNjU9JbwNUP0WFm3tpYjmV/MeY02t1MHcXA/7QDp8DTJRXTVmY+jZP9s6cp8NP8tT+MejtLV5C1fnl3s6fs9JYWkl9Ef8AFALYWEmYkfv+0m8xm2gYiIB8wiIk8clEzVJhM0aAbEFj4zflmki83UDfxEA1sk1MJbdZoqCAVomTiYwBES/gMA9Y9EaDdjsP1PdKNpK7L6dOVSSjBXb4FJFJ2lgXXRjY9hveer4fwhUGgse09Y/7V8OlOo1BT1lDXFrFbzVeMinoT9Ps5WlC8ppPlb73X8HhFfmDqDcEaEEbEHtnpuDcQVxlbrga8gw+IfmPPba7V4PQfekB3qSv0nH4hwN6P8ygSwU3K+8h7R2y6GLpydtDBi9g4qgnKNpJcr38rfxc7mDYXZBt1h56N8/+qWpwuG8QVyrCwINmH3WIGYd17acj5TvEWmniobtRvnmem2BifbYNRvnHLw4emXgRERNYmhERAPmRWYzZVM1yeOSCImUAzRpsDW1HL6SvNqNATuXk6U0ultJOGPKWsRSuLwVscx1moiWmF5XcQULvC8Ca75dgNXPYO2ezw2GWmAqiwEq8AwHsqYuOk2p/4+X/ACnUAkXiKu/Ky0R73Y+zVh6KnJfHLN9OS/PXpYgCZCSBJM1ibSsRF4iUL7FDG8Kp1LtbK2+dd/8A5DYjuM3YAtbK+rKOt2yzFpfvtqzNeOHhGp7SCs3rbj39euoiIlhsCIiAfO8Phmc+Pz8J2k+zBK3NQA/D8P4jOrguHimNeu3RZh7ob3V/5Tog+nb2zdq4qV/hPM4Ds9RUL4hXb4Xat5cfTveZ4XGcPqUnCsp6R6O1m8DPWcJ4auHSw1qEdJ/9o7vrL1SkGy3GzKwtyZTcTGnrm/Fa3Z+95jqYiVSKXn1N3A7Ho4StKpF3v8t/6Vx8Xztksud62IwdOppUQc9rhuzosJ53iP2fendqXTUbj3h5c/KetImJWW060oaGbG7Lw+Kj8a+Lg1k/w+55crPM8Bh31nYRbrL/ABjggqj2lIWqbldg/rs/1nOwFXMuu40I59/nJKnVjUV0eFx+Aq4KpuTzT0a0f4fNfZplRME7sQguBqTyHjNWDw9660n2zgN2WB1+QnoOFVLE/CdGnZrYZWtmGq9JG+HwMwVcQ4ScXoS+A2NCvRhVUs002no1e9vFcXfO6003AQBJkSNPakyCYvEAREQVEREAREQBEiIBoUE6E221Xn1b5c3unaZip9M1udu0QAP3aZEay4JMlP3p3TIL84EmWlLCDEQDXacvjOB3roNR1x2j4vHt7p2IBtqJfTm4S3kauLwlPFUnSqaPjyfBru9dHkzj8Jo5qatyu31nXAsJT4fRFIvSHVzConZlbceRv5Wl2XVZb0myzAUPY0IQeqST71l5Ph0IMSTIExG6JEmIAiIgqIiIAiIgCIiAYZOY3k27ZI5zXhqhYAn99KVLb52NsREoXCIiAIiIAiIgCREmAIiIBESYgCRJiARJiIBESYgH/9k=",
-      "movie_trailer": "https://www.youtube.com/watch?v=mqqft2x_Aa4"
     }
-  ]
+]
