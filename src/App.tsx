@@ -5,16 +5,15 @@ import SideBar from './components/SideBar'
 import SlideCorousel from './components/SlideCorousel/SlideCorousel'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-      <div className='flex'>
+      <div>
         <SideBar/>
         <div id={'pageContent'} className='
-            md:ml-52
+            md:ml-52 
         '>
           <SlideCorousel/>
-
+          
         </div>
       </div>
   )
