@@ -5,39 +5,31 @@ import { Swiper, SwiperSlide } from 'swiper/react'
 import 'swiper/css'
 
 import MovieProps from '../interfaces/MovieProps';
+import Title from '../Title';
+import getJSON from '../functions/Fetcher';
 
 export interface SlideCorouselProps {
+    movies_file : string,
+    style_classes ?: string,
+    title ?: string
 }
 
-export default function SlideCorousel (props: SlideCorouselProps) {
+export default function SlideCorousel ({movies_file, style_classes, title}: SlideCorouselProps) {
   const [moviesData, setMoviesData] = useState<MovieProps[] | undefined>()
   const [movieInfo, setMovieInfo] = useState<Object | undefined>()
 
   useEffect(() => {
-      getJSON('/data/movies.json')
+    getMoviesData()
   } ,[])
 
-  async function getJSON(path : string) {
-      const response = await fetch(path)
-      const file = await response.json()
-      setMoviesData(file)
+  async function getMoviesData() {
+     const movies_data = await getJSON(movies_file)
+     setMoviesData(movies_data)
   }
 
-
-  useEffect(() => {
-      if (moviesData) {
-          moviesData.map((movie) => {
-              console.log(movie.movie_name)
-          })
-      }
-  }, [moviesData])
-
   return (
-    <div>
-        <h1 className='text-lg font-bold
-            ml-5 mt-5
-            md:ml-8 md:mt-6
-        '>Recommended Movies 🍿</h1>
+    <div className={style_classes}>
+        {title && <Title className={'ml-5 mt-5 md:ml-8 md:mt-6'} text={title}/>}
         <Swiper className='ml-4 mr-4 select-none
           transition-all duration-300
           '

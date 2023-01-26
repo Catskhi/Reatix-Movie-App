@@ -1,0 +1,110 @@
+[
+    {
+      "movie_name": "The Godfather",
+      "movie_year": "1972",
+      "movie_rating": "R",
+      "movie_duration": "2h 55m",
+      "movie_genres": [
+        "Crime",
+        "Drama"
+      ],
+      "movie_directors": [
+        "Francis Ford Coppola"
+      ],
+      "movie_stars": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ],
+      "movie_description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+      "movie_poster": "https://i.pinimg.com/originals/40/b4/21/40b421c7cfe1b3059d5e50d79e968270.jpg",
+      "movie_trailer": "https://www.youtube.com/watch?v=UaVTIH8mujA"
+    },
+    {
+      "movie_name": "The Lord of the Rings: The Return of the King (2003)",
+      "movie_year": "2003",
+      "movie_rating": "PG-13",
+      "movie_duration": "3h 21m",
+      "movie_genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "movie_directors": [
+        "Peter Jackson"
+      ],
+      "movie_stars": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen"
+      ],
+      "movie_description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "movie_poster": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "movie_trailer": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+    },
+    {
+      "movie_name": "Pulp Fiction",
+      "movie_year": "1994",
+      "movie_rating": "R",
+      "movie_duration": "2h 34m",
+      "movie_genres": [
+        "Crime",
+        "Drama"
+      ],
+      "movie_directors": [
+        "Quentin Tarantino"
+      ],
+      "movie_stars": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "movie_description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "movie_poster": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fthesefantasticworlds.com%2Fwp-content%2Fuploads%2F2012%2F07%2Fmovie-poster-pulpfiction.jpg%3Fssl%3D1&f=1&nofb=1&ipt=01c4360004ed1f7bdb8404915127d5b7e1d00b9ac7801333420e15e47b5f8f4e&ipo=images",
+      "movie_trailer": "https://www.youtube.com/watch?v=tGpTpVyI_OQ"
+    },
+    {
+      "movie_name": "Star Wars: Episode IV - A New Hope ",
+      "movie_year": "1977",
+      "movie_rating": "PG",
+      "movie_duration": "2h 1m",
+      "movie_genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "movie_directors": [
+        "George Lucas"
+      ],
+      "movie_stars": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ],
+      "movie_description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+      "movie_poster": "https://img.elo7.com.br/product/original/2C250F9/big-poster-filme-star-wars-uma-nova-esperanca-lo01-90x60-cm-star-wars.jpg",
+      "movie_trailer": "https://www.youtube.com/watch?v=vZ734NWnAHA"
+    },
+    {
+      "movie_name": "L\u00e9on: The Professional",
+      "movie_year": "1994",
+      "movie_rating": "R",
+      "movie_duration": "1h 50m",
+      "movie_genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "movie_directors": [
+        "Luc Besson"
+      ],
+      "movie_stars": [
+        "Jean Reno",
+        "Gary Oldman",
+        "Natalie Portman"
+      ],
+      "movie_description": "12-year-old Mathilda is reluctantly taken in by L\u00e9on, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his prot\u00e9g\u00e9e and learns the assassin's trade.",
+      "movie_poster": "https://i.pinimg.com/originals/c6/05/fe/c605fefb1f00ba09c4450ac1be202155.jpg",
+      "movie_trailer": "https://www.youtube.com/watch?v=jawVxq1Iyl0"
+    }
+  ]

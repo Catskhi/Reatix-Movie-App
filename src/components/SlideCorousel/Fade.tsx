@@ -9,8 +9,9 @@ export default function Fade () {
                 
                 w-full h-[200px]
 
-                lg:w-[100%] lg:h-[330px]
+                  lg:h-[330px]
                  bg-slate-800 
+                 xl:w-ful
                  opacity-50
                  md:opacity-60
                 '/>
