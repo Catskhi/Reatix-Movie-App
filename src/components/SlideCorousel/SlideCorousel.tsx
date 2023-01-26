@@ -39,7 +39,6 @@ export default function SlideCorousel (props: SlideCorouselProps) {
             md:ml-8 md:mt-6
         '>Recommended Movies 🍿</h1>
         <Swiper className='ml-4 mr-4 select-none
-          md:ml-7
           transition-all duration-300
           '
           spaceBetween={30}
