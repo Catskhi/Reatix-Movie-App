@@ -48,6 +48,7 @@ export default function CorouselItem ({movie} : ItemProps) {
             </div>
             <Fade/>
             <div className='absolute
+               
                 rounded-lg mt-2  text-center
                 w-full 
                 md:w-full
@@ -107,8 +108,10 @@ export default function CorouselItem ({movie} : ItemProps) {
             <img className='pointer-events-none 
             sm:absolute z-[-10]
             rounded-lg
-            object-cover object-top w-56
-            h-full
+            object-cover object-top 
+            w-full
+            h-[200px]
+            absolute
             sm:w-full sm:h-[200px]
             lg:static
             lg:w-[1000px] lg:h-[330px]

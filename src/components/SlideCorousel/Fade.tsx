@@ -6,8 +6,8 @@ export default function Fade () {
                 id={'fade'}
                 className='
                 absolute rounded-lg
-                h-full w-56
-                sm:w-full sm:h-[200px]
+                
+                w-full h-[200px]
 
                 lg:w-[100%] lg:h-[330px]
                  bg-slate-800 
