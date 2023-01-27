@@ -15,9 +15,9 @@ function App() {
             md:ml-52 
         '>
           <SlideCorousel title='Recommended Movies 🍿' movies_file={'/data/recommended_movies.json'}/>
-          <Title className='mt-6 ml-7 mb-2' text='Top Movies  ⭐️'/>
+          <Title className='mt-5 ml-7 mb-2' text='Top Movies  ⭐️'/>
           <TopMovies style_classes='hidden lg:flex'/>
-          <SlideCorousel style_classes='block md:hidden' movies_file='/data/top_movies.json'/>
+          <SlideCorousel style_classes='block lg:hidden' movies_file='/data/top_movies.json'/>
         </div>
       </div>
   )

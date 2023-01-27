@@ -18,10 +18,10 @@ export default function TopMovies ({style_classes}: TopMoviesProps) {
     getTopMovies()
 
   return (
-    <div className={'mb-2 ml-5 mr-3 h-[400px] ' + style_classes}>
+    <div className={'w-auto mb-2 ml-7 mr-6 h-[400px] ' + style_classes}>
         {topMovies && topMovies.map((movie) => {
             return (
-                <MovieItem movie_poster={movie.movie_poster}/>
+                <MovieItem movie_trailer={movie.movie_trailer} movie_poster={movie.movie_poster}/>
             )
         })}
     </div>
