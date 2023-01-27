@@ -1,0 +1,112 @@
+[
+  {
+    "movie_name": "john wick 3",
+    "movie_year": "2019",
+    "movie_rating": "R",
+    "movie_duration": "2h 10m",
+    "movie_genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "movie_directors": [
+      "Chad Stahelski"
+    ],
+    "movie_stars": [
+      "Keanu Reeves",
+      "Halle Berry",
+      "Ian McShane"
+    ],
+    "movie_description": "John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+    "movie_poster": "https://musicart.xboxlive.com/7/261e5100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+    "movie_trailer": "https://www.youtube.com/watch?v=M7XM597XO94"
+  },
+  {
+    "movie_name": "Top Gun (1986)",
+    "movie_year": "1986",
+    "movie_rating": "PG",
+    "movie_duration": "1h 49m",
+    "movie_genres": [
+      "Action",
+      "Drama"
+    ],
+    "movie_directors": [
+      "Tony Scott"
+    ],
+    "movie_stars": [
+      "Tom Cruise",
+      "Tim Robbins",
+      "Kelly McGillis"
+    ],
+    "movie_description": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.",
+    "movie_poster": "https://img.elo7.com.br/product/original/2692A92/big-poster-filme-top-gun-lo01-tamanho-90x60-cm-poster-de-filme.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=xa_z57UatDY"
+  },
+  {
+    "movie_name": "John Wick 1",
+    "movie_year": "2014",
+    "movie_rating": "R",
+    "movie_duration": "1h 41m",
+    "movie_genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "movie_directors": [
+      "Chad Stahelski",
+      "David Leitch"
+    ],
+    "movie_stars": [
+      "Keanu Reeves",
+      "Michael Nyqvist",
+      "Alfie Allen"
+    ],
+    "movie_description": "An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took his car.",
+    "movie_poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=C0BMx-qxsP4"
+  },
+  {
+    "movie_name": "The Dark Knight (2008)",
+    "movie_year": "2008",
+    "movie_rating": "PG-13",
+    "movie_duration": "2h 32m",
+    "movie_genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "movie_directors": [
+      "Christopher Nolan"
+    ],
+    "movie_stars": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "movie_description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "movie_poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+  },
+  {
+    "movie_name": "Blade Runner 2049 (2017)",
+    "movie_year": "2017",
+    "movie_rating": "R",
+    "movie_duration": "2h 44m",
+    "movie_genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "movie_directors": [
+      "Denis Villeneuve"
+    ],
+    "movie_stars": [
+      "Harrison Ford",
+      "Ryan Gosling",
+      "Ana de Armas"
+    ],
+    "movie_description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+    "movie_poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=gCcx85zbxz4"
+  }
+]
