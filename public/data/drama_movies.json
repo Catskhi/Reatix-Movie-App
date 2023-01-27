@@ -1,0 +1,110 @@
+[
+  {
+    "movie_name": "The Truman Show",
+    "movie_year": "1998",
+    "movie_rating": "PG",
+    "movie_duration": "1h 43m",
+    "movie_genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "movie_directors": [
+      "Peter Weir"
+    ],
+    "movie_stars": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "movie_description": "An insurance salesman discovers his whole life is actually a reality TV show.",
+    "movie_poster": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=dlnmQbPGuls"
+  },
+  {
+    "movie_name": "Cast Away (2000)",
+    "movie_year": "2000",
+    "movie_rating": "PG-13",
+    "movie_duration": "2h 23m",
+    "movie_genres": [
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "movie_directors": [
+      "Robert Zemeckis"
+    ],
+    "movie_stars": [
+      "Tom Hanks",
+      "Helen Hunt",
+      "Paul Sanchez"
+    ],
+    "movie_description": "A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island.",
+    "movie_poster": "https://m.media-amazon.com/images/M/MV5BN2Y5ZTU4YjctMDRmMC00MTg4LWE1M2MtMjk4MzVmOTE4YjkzXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_FMjpg_UX1000_.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=qGuOZPwLayY"
+  },
+  {
+    "movie_name": "Titanic",
+    "movie_year": "1997",
+    "movie_rating": "PG-13",
+    "movie_duration": "3h 14m",
+    "movie_genres": [
+      "Drama",
+      "Romance"
+    ],
+    "movie_directors": [
+      "James Cameron"
+    ],
+    "movie_stars": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "movie_description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "movie_poster": "https://m.media-amazon.com/images/I/61S9xSeV35S._AC_SX679_.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=kVrqfYjkTdQ"
+  },
+  {
+    "movie_name": "Interstellar",
+    "movie_year": "2014",
+    "movie_rating": "PG-13",
+    "movie_duration": "2h 49m",
+    "movie_genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "movie_directors": [
+      "Christopher Nolan"
+    ],
+    "movie_stars": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "movie_description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "movie_poster": "https://i.pinimg.com/736x/8e/0d/ab/8e0dab8699be85720ce55845065bf6dc.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=hHBsKHVLAYc"
+  },
+  {
+    "movie_name": "Braveheart (1995)",
+    "movie_year": "1995",
+    "movie_rating": "R",
+    "movie_duration": "2h 58m",
+    "movie_genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "movie_directors": [
+      "Mel Gibson"
+    ],
+    "movie_stars": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Patrick McGoohan"
+    ],
+    "movie_description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+    "movie_poster": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "movie_trailer": "https://www.youtube.com/watch?v=1NJO0jxBtMo"
+  }
+]

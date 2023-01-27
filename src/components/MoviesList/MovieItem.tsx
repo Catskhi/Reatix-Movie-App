@@ -9,7 +9,7 @@ export default function MovieItem ({movie_poster, movie_trailer}: MovieItemProps
   return (
     <div className='w-full h-[300px] '>
         <div
-        className='relative bg-cover bg-center w-[90%] h-[90%] rounded-[15px] mt-[15px]'
+        className='relative bg-cover bg-center w-[90%] h-[90%] rounded-[15px] lg:mt-[15px]'
         style={{backgroundImage: `url(${movie_poster})`}} >
             <a target='_blank' href={movie_trailer} className='h-full w-full flex justify-center items-center group'>
                 <div className='group-hover:bg-slate-800 absolute

@@ -24,7 +24,7 @@ export default function ItemInfo ({movie_name, movie_year, movie_rating,
                 lg:text-left
                 '>
                 <h1 className='mt-4 lg:mt-5
-                    text-lg lg:text-2xl font-bold
+                    text-md md:text-lg lg:text-2xl font-bold
                 
                 '>{movie_name}</h1>
                 <p className='
