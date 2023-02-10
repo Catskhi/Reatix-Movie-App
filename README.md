@@ -6,6 +6,8 @@ In the development, I ended up having to use new technologies, such as:
 - Sliper JS (I needed to build a carousel slider, and Sliper JS was made for it, a very good library.)
 - I learned more about React, obviously.
 
+You can access the project here: https://reatix-movie-app.vercel.app/
+
 ### 📸 Screenshots
 
 #### Desktop
